@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
